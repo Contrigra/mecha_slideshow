@@ -1,6 +1,6 @@
 export default class Slideshow {
     constructor() {
-        this.imageArray = ["../img/1.jpg", "../img/2.webp", "../img/3.webp", "../img/4.jpg", "../img/5.webp"];
+        this.imageArray = ["/img/1.jpg", "/img/2.webp", "/img/3.webp", "/img/4.jpg", "/img/5.webp"];
         this.currentImageIndex = 0
     }
 
